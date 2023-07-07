@@ -4,5 +4,5 @@ Welcome to the PandasAI-Tutorials repository! Here, you will find a collection o
 ▶️ YouTube
 - [Introduction to Pandas AI](https://youtu.be/aUds2W7A_FY)
 
-🚀 
+🚀 Medium
 - [Meet PandasAI](https://levelup.gitconnected.com/pandasai-unlocking-the-power-of-data-with-generative-ai-3196cbccba34)
