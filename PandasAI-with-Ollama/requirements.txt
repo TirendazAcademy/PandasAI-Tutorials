@@ -1,0 +1,5 @@
+langchain
+langchain_community
+pandasai
+ollama 
+streamlit
