@@ -1,6 +1,6 @@
 # Learn PandasAI with Examples
 
-This repo walks you through how to use Pandas AI step-by-step.
+This repo walks you step by step on how to use Pandas AI.
 
 ▶️ YouTube
 - [Introduction to Pandas AI](https://youtu.be/aUds2W7A_FY)
