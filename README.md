@@ -4,6 +4,7 @@ This repo walks you step by step on how to use Pandas AI.
 
 ▶️ YouTube
 
+- [PandasAI Agent](https://youtu.be/9nyiePIrtbE)
 - [PandasAI with Llama-3](https://youtu.be/_dDaNgBDoHY)
 - [Data visualization with PandasAI](https://youtu.be/j-FQnJvesH4)
 - [Build an app with PandasAI, Ollama and Streamlit](https://youtu.be/-bt9grGmNvs)
