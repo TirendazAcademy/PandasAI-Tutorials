@@ -26,3 +26,4 @@ if uploaded_file is not None:
         if prompt:
             with st.spinner("Generating response..."):
                 st.write(agent.chat(prompt))
+                
