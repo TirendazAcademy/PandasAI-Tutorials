@@ -4,6 +4,7 @@ This repo walks you step by step on how to use Pandas AI.
 
 ▶️ YouTube
 
+- [PandasAI Agent](https://youtu.be/9nyiePIrtbE)
 - [PandasAI with Llama-3](https://youtu.be/_dDaNgBDoHY)
 - [Data visualization with PandasAI](https://youtu.be/j-FQnJvesH4)
 - [Build an app with PandasAI, Ollama and Streamlit](https://youtu.be/-bt9grGmNvs)
@@ -13,3 +14,5 @@ This repo walks you step by step on how to use Pandas AI.
 
 🚀 Medium
 - [Meet PandasAI](https://levelup.gitconnected.com/pandasai-unlocking-the-power-of-data-with-generative-ai-3196cbccba34)
+
+🔗 Let's connect [YouTube](http://youtube.com/tirendazacademy) | [Medium](http://tirendazacademy.medium.com) | [X](http://x.com/tirendazacademy) | [Linkedin](https://www.linkedin.com/in/tirendaz-academy) 😎
