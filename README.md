@@ -5,13 +5,13 @@
 [![](https://img.shields.io/badge/ollama-black?&style=plastic&logo=ollama&logoColor=white)]()
 [![](https://img.shields.io/badge/streamlit-darkgreen?&style=plastic&logo=streamlit&logoColor=white)]()
 [![](https://img.shields.io/badge/chainlit-blue?&style=plastic&logo=chainlit&logoColor=white)]()
+[![](https://img.shields.io/badge/llama3-640D6B?&style=plastic&logo=meta&logoColor=white)]()
 
-
-This repo includes tutorials on how to use Pandas AI. Let me briefly explain this tool.
+Welcome to my PandasAI repo. This repo includes tutorials on how to use Pandas AI. Let me briefly explain this tool.
 
 [PandasAI](https://docs.pandas-ai.com/en/latest/) is an amazing Python library that allows you to talk to your data. It helps you to explore, clean, and analyze your data using generative AI.
 
-### Features
+### Features:
 
 - Ask questions about your data in natural language.
 - Generate plots to visualize your data.
@@ -29,11 +29,9 @@ poetry add pandasai
 pip install pandasai
 ```
 
-▶️ My YouTube Videos with (Python code walkthrough)
+🚀 My YouTube Videos (Python code walkthrough) 👇
 
 <a href="https://www.youtube.com/playlist?list=PLbQRubTta6fep1BSGsSOmuYtu4ncNGnG8" target="_blank"><img src="https://github.com/TirendazAcademy/PandasAI-Tutorials/blob/main/Images/pandaai-5.png" alt="IMAGE ALT TEXT HERE" width="1080" height="720" border="10" /></a>
-
-
 
 - [MySQL with PandasAI](https://youtu.be/o88et_D8qlg)
 - [PandasAI Agent](https://youtu.be/9nyiePIrtbE)
