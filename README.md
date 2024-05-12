@@ -1,5 +1,12 @@
 # Learn PandasAI with Examples
 
+[![](https://img.shields.io/badge/python-darkblue?&style=plastic&logo=python&logoColor=white)]()
+[![](https://img.shields.io/badge/pandasai-darkred?&style=plastic&logo=pandas&logoColor=white)]()
+[![](https://img.shields.io/badge/ollama-black?&style=plastic&logo=ollama&logoColor=white)]()
+[![](https://img.shields.io/badge/streamlit-darkgreen?&style=plastic&logo=streamlit&logoColor=white)]()
+[![](https://img.shields.io/badge/chainlit-blue?&style=plastic&logo=chainlit&logoColor=white)]()
+
+
 This repo includes tutorials on how to use Pandas AI. Let me briefly explain this tool.
 
 [PandasAI](https://docs.pandas-ai.com/en/latest/) is an amazing Python library that allows you to talk to your data. It helps you to explore, clean, and analyze your data using generative AI.
