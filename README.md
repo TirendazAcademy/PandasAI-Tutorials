@@ -1,9 +1,30 @@
 # Learn PandasAI with Examples
 
-This repo walks you step by step on how to use Pandas AI.
+This repo includes tutorials on how to use Pandas AI. Let me briefly explain this tool.
 
-▶️ YouTube
+[PandasAI](https://docs.pandas-ai.com/en/latest/) is an amazing Python library that allows you to talk to your data. It helps you to explore, clean, and analyze your data using generative AI.
 
+### Features
+
+- Ask questions about your data in natural language.
+- Generate graphs and charts to visualize your data.
+- Clean datasets by addressing missing values.
+- Enhance data quality through feature generation.
+- Connect to various data sources like CSV, XLSX, PostgreSQL, MySQL, BigQuery, Databrick, Snowflake, etc.
+
+To install PandasAI, run this command: 
+
+```
+# Using poetry (recommended)
+poetry add pandasai
+
+# Using pip
+pip install pandasai
+```
+
+▶️ My YouTube Videos with (Python code walkthrough)
+
+- [MySQL with PandasAI](https://youtu.be/o88et_D8qlg)
 - [PandasAI Agent](https://youtu.be/9nyiePIrtbE)
 - [PandasAI with Llama-3](https://youtu.be/_dDaNgBDoHY)
 - [Data visualization with PandasAI](https://youtu.be/j-FQnJvesH4)
