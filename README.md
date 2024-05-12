@@ -29,7 +29,7 @@ poetry add pandasai
 pip install pandasai
 ```
 
-🚀 My YouTube Videos (Python code walkthrough) 👇
+### 🚀 My YouTube Videos (Python code walkthrough) 👇
 
 <a href="https://www.youtube.com/playlist?list=PLbQRubTta6fep1BSGsSOmuYtu4ncNGnG8" target="_blank"><img src="https://github.com/TirendazAcademy/PandasAI-Tutorials/blob/main/Images/pandaai-5.png" alt="IMAGE ALT TEXT HERE" width="1080" height="720" border="10" /></a>
 
@@ -42,7 +42,7 @@ pip install pandasai
 - [Data Analysis with PandasAI and Ollama](https://youtu.be/bw_e6xgGSTY)
 - [Introduction to Pandas AI](https://youtu.be/aUds2W7A_FY)
 
-🚀 Medium
+### 🚀 Medium
 - [Meet PandasAI](https://levelup.gitconnected.com/pandasai-unlocking-the-power-of-data-with-generative-ai-3196cbccba34)
 
 🔗 Let's connect [YouTube](http://youtube.com/tirendazacademy) | [Medium](http://tirendazacademy.medium.com) | [X](http://x.com/tirendazacademy) | [Linkedin](https://www.linkedin.com/in/tirendaz-academy) 😎
