@@ -7,7 +7,7 @@ This repo includes tutorials on how to use Pandas AI. Let me briefly explain thi
 ### Features
 
 - Ask questions about your data in natural language.
-- Generate graphs and charts to visualize your data.
+- Generate plots to visualize your data.
 - Clean datasets by addressing missing values.
 - Enhance data quality through feature generation.
 - Connect to various data sources like CSV, XLSX, PostgreSQL, MySQL, BigQuery, Databrick, Snowflake, etc.
@@ -24,7 +24,7 @@ pip install pandasai
 
 ▶️ My YouTube Videos with (Python code walkthrough)
 
-<a href="https://www.youtube.com/playlist?list=PLbQRubTta6fep1BSGsSOmuYtu4ncNGnG8" target="_blank"><img src="https://github.com/TirendazAcademy/PandasAI-Tutorials/blob/main/Images/pandaai-5.png" alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
+<a href="https://www.youtube.com/playlist?list=PLbQRubTta6fep1BSGsSOmuYtu4ncNGnG8" target="_blank"><img src="https://github.com/TirendazAcademy/PandasAI-Tutorials/blob/main/Images/pandaai-5.png" alt="IMAGE ALT TEXT HERE" width="1080" height="720" border="10" /></a>
 
 
 
