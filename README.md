@@ -24,6 +24,10 @@ pip install pandasai
 
 ▶️ My YouTube Videos with (Python code walkthrough)
 
+<a href="https://www.youtube.com/playlist?list=PLbQRubTta6fep1BSGsSOmuYtu4ncNGnG8" target="_blank"><img src="https://github.com/TirendazAcademy/PandasAI-Tutorials/blob/main/Images/pandaai-5.png" alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
+
+
+
 - [MySQL with PandasAI](https://youtu.be/o88et_D8qlg)
 - [PandasAI Agent](https://youtu.be/9nyiePIrtbE)
 - [PandasAI with Llama-3](https://youtu.be/_dDaNgBDoHY)
