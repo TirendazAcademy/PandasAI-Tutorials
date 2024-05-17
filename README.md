@@ -29,6 +29,10 @@ poetry add pandasai
 pip install pandasai
 ```
 
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/playlist?list=PLbQRubTta6fep1BSGsSOmuYtu4ncNGnG8"><img width="140px" src="https://github.com/TirendazAcademy/PandasAI-Tutorials/blob/main/Images/pandaai-5.png"></a></td>
+
+<!-- YOUTUBE:END -->
+
 ### 🚀 My YouTube Videos (Python code walkthrough) 👇
 
 <a href="https://www.youtube.com/channel/UCFU9Go20p01kC64w-tmFORw" target="_blank"><img src="https://github.com/TirendazAcademy/PandasAI-Tutorials/blob/main/Images/pandaai-5.png" alt="IMAGE ALT TEXT HERE" width="640" height="480" border="10" /></a>
